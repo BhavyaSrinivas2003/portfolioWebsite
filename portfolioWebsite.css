@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.imgP {
+    height: 30vh;
+    border-radius: 50%;
+    background-color: AliceBlue;
+
+}
+
+.proHead {
+    text-align: center;
+}
+
+.subProject {
+    background-color: #fff0f5;
+}
+
+.note {
+    color: #ff1493;
+}
+
+#about,
+#skills,
+#projects,
+#contact {
+    background-color: #f0f8ff;
+    padding: 8px;
+    border-radius: 8px;
+    margin-top: 7px;
+}
+
+#skillItem {
+    background-color: #00FFFF;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+#projects1 {
+    padding: 5px;
+    margin: 5px;
+    background-color: #FFFAF0;
+    border-radius: 7px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.nameHead {
+    text-decoration: underline;
+    font-family: Serif;
+    font-weight: Bold;
+}
+
+.flexItem {
+    justify-content: space-between;
+}
+
+.flexItem2 {
+    justify-content: space-around;
+}
+
+.icon {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+
+
+.ContentColor {
+    color: Black;
+}
+
+.fileRes {
+    fill: white;
+}
+
+#DResume {
+    color: #ffffff;
+
+    margin: auto 0;
+    width: 380px;
+    height: 380px;
+    border-radius: 55% 45% 55% 45%;
+    overflow: hidden;
+    animation: imgFloat 7s ease-in-out infinite;
+
+}
+
+.boldH {
+    font-weight: bold;
+}
+
+.iconH {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.Icons {
+    justify-content: center;
+}
+
+.H {
+    font-size: 12px;
+}
+
+.I {
+    color: Pink;
+}
