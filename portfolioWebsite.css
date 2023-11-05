@@ -6,7 +6,7 @@
     background-color: AliceBlue;
 
 }
-span {
+span, svg  {
     font-size: 25px;
 }
 .proHead {
