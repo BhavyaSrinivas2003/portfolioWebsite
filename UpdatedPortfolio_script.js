@@ -309,8 +309,3 @@ window.addEventListener('scroll', () => {
 scrollUp.addEventListener('click', () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 });
-
-// Mobile scroll fix for projects
-if (window.innerWidth <= 768) {
-    document.querySelector('#projects').style.minHeight = '100vh';
-}
